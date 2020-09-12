@@ -3,7 +3,7 @@
 - Latest beta version: 🤗
 - Legacy versions: [v3.1.5.4](changelogV3.txt), [v2.1.4.1](changelogV2.txt), [v0.9.8.9](changelogV1.txt).
 
-## SD Maid [v4.15.15](https://github.com/d4rken/sdmaid-public/milestone/125?closed=1) 23.08.2020
+## SD Maid [v4.15.15](https://github.com/d4rken/sdmaid-public/milestone/125?closed=1 12.09.2020
 ### Core
 - Improved: Clutter database.
 
